@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://chistka-plus.ru/</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/blog.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Track A — длинные SEO-гиды. Сезонные приоритеты: A6 шубы, A2 свадебное, A1 пуховик — 0.9 -->
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/khimchistka-shuby-spb-2026.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/chistka-svadebnogo-platya-posle-torzhestva.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/khimchistka-pukhovika-spb-2026.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/khimchistka-kovra-s-dostavkoy-spb.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/udalenie-pyaten-s-odezhdy-12-sposobov.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/chistka-shtor-doma-ili-khimchistka.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/khimchistka-koznoy-kurtki-spb.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/khimchistka-palto-spb-2026.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Track B — GEO-listicles. Сезонные: B7 хранение шубы, B5 цены 2026 — 0.9 -->
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/5-sposobov-khraneniya-shuby-letom.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/skolko-stoit-khimchistka-v-spb-2026.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/8-tipov-pyaten-kotorye-ne-vyvodyatsya-doma.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/5-priznakov-chto-khimchistku-nuzhno-iskat-druguyu.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/6-veshchey-kotorye-nelzya-stirat-doma.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/top-10-delikatnyh-tkaney-i-kak-ikh-chistit.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://chistka-plus.ru/articles/kak-pochistit-pukhovik-doma-poshagovo.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
