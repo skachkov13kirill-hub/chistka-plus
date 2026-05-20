@@ -56,7 +56,7 @@
 
   // ВАЖНО: в продакшене токен бота НЕ хранится на клиенте.
   // Демо-форма: эмулирует успех без реальной отправки.
-  const FORM_ENDPOINT = '';
+  const FORM_ENDPOINT = 'https://seo-leads.skachkovkirill8.workers.dev/submit';
 
   const form = document.getElementById('contactForm');
   if (form) {
@@ -74,6 +74,9 @@
       const data = Object.fromEntries(new FormData(form).entries());
 
       try {
+                data.site = 'chistka-plus.ru';
+        data.action = 'form_submit';
+        data.honeypot = data.hp_check || '';
         if (FORM_ENDPOINT) {
           const response = await fetch(FORM_ENDPOINT, {
             method: 'POST',
